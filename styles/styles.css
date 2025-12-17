@@ -1,0 +1,30 @@
+* {
+    margin: 0px;
+}
+
+.heading {
+    font-size: 3rem;
+    font-family: "Inter", sans-serif;
+    font-weight: bold;
+}
+
+.paragraph {
+    font-size: 1.125rem;
+    font-family: "Helvetica", sans-serif;
+}
+
+.container {
+    width: 100%;
+    max-width: 80%;
+    margin: 80px auto;
+
+}
+
+.header-container {
+    width: 100%;
+    max-width: 80%;
+    padding: 25px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
